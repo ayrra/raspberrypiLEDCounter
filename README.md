@@ -1,6 +1,5 @@
 # raspberrypiLEDCounter
 
-![ScreenShot](http//:www.yrra.net/wp-content/uploads/2015/09/IMG_2640.jpg)
 <img class="alignnone wp-image-1166 size-large" src="http://www.yrra.net/wp-content/uploads/2015/09/IMG_2640-1024x768.jpg" alt="IMG_2640" width="1024" height="768" />
 
 Binary LED Counter Using A Raspberry Pi!
